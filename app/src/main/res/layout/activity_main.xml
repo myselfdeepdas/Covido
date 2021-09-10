@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#aebed7"
+
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:background="@drawable/textround"
+        android:fontFamily="@font/autour_one"
+        android:gravity="center"
+        android:text="India's Covid-19 (State &amp; City Data)"
+        android:textColor="#000000"
+        android:textSize="10sp"
+        android:textStyle="bold|italic" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/black" />
+
+
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="98dp"
+
+        android:background="@drawable/corner_layout"
+        android:orientation="horizontal"
+        android:textDirection="firstStrong">
+
+        <AutoCompleteTextView
+            android:id="@+id/autotextview"
+            android:layout_width="312dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_weight="1"
+            android:background="#ffffff"
+            android:fontFamily="@font/architects_daughter"
+            android:gravity="center"
+            android:hint="PLEASE ENTER ANY STATE NAME"
+            android:textColor="@color/black"
+            android:textSize="10sp"
+            android:textStyle="bold|italic" />
+
+        <Button
+            android:id="@+id/btncheck"
+            android:layout_width="wrap_content"
+            android:layout_height="32dp"
+            android:layout_below="@+id/autotextview"
+            android:layout_alignStart="@+id/autotextview"
+            android:layout_marginStart="111dp"
+            android:layout_marginTop="6dp"
+            android:background="@drawable/roundbutton"
+            android:text="Click Here"
+            android:textColor="@color/black"
+            android:textSize="8sp"
+            android:textStyle="bold|italic" />
+
+
+    </RelativeLayout>
+
+    <ListView
+
+        android:id="@+id/dataListview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+         />
+
+</LinearLayout>

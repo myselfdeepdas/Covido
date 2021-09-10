@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Covido</string>
+
+    <string name="title">COVID-19 Details</string>
+    <string name="city_name">City Name</string>
+    <string name="active">Active -</string>
+    <string name="active_count">20000</string>
+    <string name="actToday">79</string>
+    <string name="cured">Cured -</string>
+    <string name="curedcount">40000</string>
+    <string name="curedToday">19</string>
+    <string name="death">Death -</string>
+    <string name="deathcount">10000</string>
+    <string name="deathToday">10</string>
+    <string name="total">Confirm -</string>
+    <string name="totalcount">70000</string>
+</resources>
