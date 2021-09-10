@@ -29,7 +29,6 @@ The APP has some basic functionalities like: ⏬
 | <img src="https://user-images.githubusercontent.com/73328144/132901750-773f954f-49cb-4c82-98fe-2ad2f15a1321.png"> | <img src="https://user-images.githubusercontent.com/73328144/132901937-10a7fac9-2259-4747-bf85-fe5bce365646.png"> | <img src="https://user-images.githubusercontent.com/73328144/132902020-048cfe3d-1daf-4c9f-9adc-0a698b6f833b.png"> |
 | ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
 | <img src="https://user-images.githubusercontent.com/73328144/132902132-dfc44b57-0a76-4a75-821a-e293997dc43b.png"> | <img src="https://user-images.githubusercontent.com/73328144/132902193-f1521b1b-eaa3-40aa-9ec8-96c3e97c123a.png"> | <img src="https://user-images.githubusercontent.com/73328144/132902254-fa242a19-fc0d-4361-a411-d60bc79a3fd2.png"> |
-| ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
 
 
 ## App installation guide ⚙
