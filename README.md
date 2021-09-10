@@ -1,9 +1,9 @@
 # Covido 🦠
 <h3><i>
-A Covid-19 tracker android app to see details of any city and state in india & other countries with a nice ui and design. Covido manage all the latest data of covid-19 affected countaries along with india's all state and city data. This app fetches data from various api's and provide you the current data of all countries covid-19 cases,recoverd,deaths etc. In a single click. </i></h3>
+A Covid-19 tracker android app to see details of any city and state in india & other countries with a nice ui and design. Covido manage all the latest data of covid-19 affected countries along with india's all state and city data. This app fetches data from various API's and provide you the current data of all countries covid-19 cases,recoverd,deaths etc. In a single click. </i></h3>
 
 
-The APP has some basic functionalities like: ⏬
+This APP has some basic functionalities like: ⏬
 
 1) Automatic update the current data. 💹
 2) Able to see all countries Covid-19 cases,recoverd,deaths etc. 🌐
