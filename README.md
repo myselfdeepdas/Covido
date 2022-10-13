@@ -12,7 +12,7 @@ This APP has some basic functionalities like: ⏬
 5) A pie chart for viewing global Covid-19 cases, recovered, death's etc. 📊
 6) All time global stat. 🌍
 7) Good & working api for data visualisation. 📅
-8) A nice good looking ui.
+8) A nice good looking UI.
 
 
 ## Developer 👨‍💻
